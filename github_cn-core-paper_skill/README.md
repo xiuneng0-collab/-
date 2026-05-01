@@ -91,3 +91,5 @@ C:\Users\<YourName>\.codex\skills\cn-core-paper
 
 这项 skill 偏“工程类中文核心期刊”写作，不默认服务于文学、管理学、法学等非工程方向稿件。  
 如果你的文章同时面向中文核心和 SCI/英文稿，建议再做一层期刊目标区分，不要直接混用同一套语言风格。
+
+<img width="1152" height="1152" alt="811cff07c6eb74926830642d24fdf170" src="https://github.com/user-attachments/assets/b95e0168-a6ce-466d-a89e-f8ab8210bcf0" />
