@@ -61,4 +61,6 @@
 本仓库内容来自真实工程论文反复修改过程中的经验沉淀，目标是让论文更像正式期刊论文，而不是汇报材料或说明文档。
 
 欢迎基于此继续扩展、细化和复用。
+<img width="1152" height="1152" alt="811cff07c6eb74926830642d24fdf170" src="https://github.com/user-attachments/assets/a6adc7cc-ac58-4beb-bce1-eccd61346091" />
+你的支持是我最大的动力
 # -
