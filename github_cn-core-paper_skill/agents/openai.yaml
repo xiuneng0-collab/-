@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文核心论文"
+  short_description: "中文核心工程论文写作、改稿与投稿前精修"
+  default_prompt: "Use $cn-core-paper to draft, restructure, or refine a Chinese core-journal engineering paper while preserving data caliber and unifying structure, figures, tables, formulas, and journal tone."
