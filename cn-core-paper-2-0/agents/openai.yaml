@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文核心论文 2.0"
+  short_description: "中文核心写作、T1工科图、GPT修图与仿真代码"
+  default_prompt: "Use $cn-core-paper-2-0 to draft, refine, or prepare a Chinese core-journal paper while guiding publication experience, research direction, evidence chains, target-journal fit, T1/T2/T3 engineering figures, diagram reproduction, GPT retouch prompts, simulation code, and graduate research support."
