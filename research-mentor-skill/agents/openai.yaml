@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研导师 skill"
+  short_description: "科研陪跑、实验排查、中文核心写作、公式推导、T1工科图"
+  default_prompt: "使用 $research-mentor 帮我处理研究生科研规划、实验失败排查、导师沟通、中文核心论文写作与润色、结构重构、公式推导、T1工科图复现、SVG/PDF/PNG输出、合成数据与assumptions配套和文献训练。"
