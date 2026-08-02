@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研导师"
+  short_description: "科研陪跑、论文精修、审稿回复与期刊级科研绘图和结构复现"
+  default_prompt: "使用 $research-mentor 帮我处理科研规划、论文精修、审稿回复、期刊级科研绘图、T1 工科图复现和多面板统计图。"
